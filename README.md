@@ -15,3 +15,4 @@
 3. Wait for confirmation and access credentials.
 
 4. Log in to the Insula platform using the provided credentials to browse and download Φ-sat-2 data.
+[You can access the collection here]:https://phisat2.insula.earth/ 
