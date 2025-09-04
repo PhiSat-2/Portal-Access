@@ -10,22 +10,10 @@
 
 ## Registration Process
 
-To access Φ-sat-2 data, please follow these steps:
+To access Φ-sat-2 data, by clicking on the button **register** self-register you account: 
 
-### 1. Submit Registration Request
-Send your registration request to: **`insula-info.it@cgi.com`**
+**🔗 [Registration Portal](https://phisat2.insula.earth/)**
 
-### 2. Required Information
-Please include the following details in your registration email:
-
-- **Full Name**
-- **Institutional Affiliation**
-- **Intended Purpose** of data usage
-- **Contact Email Address**
-
-### 3. Account Activation
-- Wait for confirmation and access credentials from the platform administrators
-- You will receive login details upon approval
 
 ### 4. Platform Access
 Once your account is activated, log in to the Insula platform using your provided credentials.
